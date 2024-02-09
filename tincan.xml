@@ -4,7 +4,7 @@
 		<activity id="urn:articulate:storyline:6Mz1ViI1CsP" type="http://adlnet.gov/expapi/activities/course">
 			<name lang="und">LRS_TEST_08.08.24</name>
 			<description lang="und" />
-			<launch lang="und">story.html</launch>
+			<launch lang="und">index_lms.html</launch>
 		</activity>
 		<activity id="urn:articulate:storyline:6Mz1ViI1CsP/62V1iLZ9UUC" type="http://adlnet.gov/expapi/activities/module">
 			<name lang="und">Untitled Slide</name>
